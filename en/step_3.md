@@ -1,22 +1,31 @@
-## What can you do now?
+<h2 class="c-project-heading--task">STEP 1</h2>
+--- task ---
+**Enigma** is a cipher machine that was used by the German military during World War II for secret communications. The cipher was famously broken during the war at Bletchley Park, the forerunner of GCHQ.
+--- /task ---
+<h2 class="c-project-heading--explain">SUB-HEADING</h2>
+In the `main` function, change your message **and** the three letter code. 
+<div class="c-project-code">
+--- code ---
+---
+language:python
+filename:main.py
+line_numbers:true
+line_number_start:
+line_highlights: 4-7
+---
+print('hello Di')
+answer = input('HOW ARE YOU?')
 
-If you are following the [PATH NAME](https://projects.raspberrypi.org/en/pathways/PATH-NAME) pathway, you can move on to the [NEXT PROJECT/PATH NAME](https://projects.raspberrypi.org/en/projects/PROJECT-SLUG) project. In this project, you will do DESCRIPTION.
+</div>
 
------- OR ---------
+<div class="c-project-callout c-project-callout--tip">
+- make sure you type answer = input()
+</div>
 
-Try our [PROJECT/PATH NAME](https://projects.raspberrypi.org/en/collections/PATH-SLUG) project pathway where you will DESCRIPTION.
+<div class="c-project-callout c-project-callout--debug">
+- how you can mess this up is beyond me
+- just follow the instructions
+</div>
 
---- print-only --- 
 
-![ALT TEXT](images/IMAGE-FROM-PROJECT.png)
 
---- /print-only ---
-
---- no-print ---
-
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/STARTER_PROJECT_SLUG" width="600" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen>
-</iframe>
-
---- /no-print ---
-
-Or, why not try out another [CODING_LANGUAGE](https://projects.raspberrypi.org/en/projects?software%5B%5D=CODING_LANGUAGE) project.
