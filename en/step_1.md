@@ -17,7 +17,7 @@ line_highlights: 4-7
 print('Hello Di')
 answer = input('How do you feel today?')
 print(f'Di is feeling {} today!')
-
+--- /code ---
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
