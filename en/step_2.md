@@ -21,9 +21,7 @@ line_number_start:
 line_highlights:
 ---
 ROTORS = 'IV I V'
-
 RINGS = '20 5 10'
-
 PLUGBOARD = 'AV BS CG DL FU HZ IN KM OW RX'
 --- /code ---
 </div>
