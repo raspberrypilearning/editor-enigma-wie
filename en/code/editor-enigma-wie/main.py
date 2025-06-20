@@ -1,7 +1,1 @@
 print("Hello, Di")
-print('this is a fun project')
-print('this is a fun project')
-print('this is a fun project')
-print('this is a fun project')
-print('this is a fun project')
-print('this is a fun project')

@@ -6,29 +6,29 @@
 Click the file `enigma.py` to look at the code. 
 
 The code uses a built-in library `enigma.machine` to do most of the work. 
-Three key settings for the machine must be changed at the start of each day. Currently it is set as follows: 
+Three key settings for the machine must be changed at the start of each day. 
+Change them to match those shown below. 
 
-`ROTORS = 'IV I V'`
 
-`RINGS = '20 5 10'`
-
-`PLUGBOARD = 'AV BS CG DL FU HZ IN KM OW RX'`
 <div class="c-project-code">
 --- code ---
 ---
 language:python
-filename:main.py
+filename:enigma.py
 line_numbers:true
 line_number_start:
 line_highlights: 4-7
 ---
-print('hello Di')
-answer = input('HOW ARE YOU?')
+ROTORS = 'IV I V'
+
+RINGS = '20 5 10'
+
+PLUGBOARD = 'AV BS CG DL FU HZ IN KM OW RX'
 
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
-- make sure you type answer = input()
+- make sure you leave spaces between the numbers.
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
