@@ -1,10 +1,9 @@
 <h2 class="c-project-heading--task">STEP 1</h2>
 --- task ---
-You are going to......
+You are going to test the editor. 
 --- /task ---
 <h2 class="c-project-heading--explain">SUB-HEADING</h2>
-Look at the code in the file on the right and the prompt for input.
-etc. etc. 
+Add to the code in the main function to reflect the code shown below.
 <div class="c-project-code">
 --- code ---
 ---
@@ -12,16 +11,16 @@ language:python
 filename:main.py
 line_numbers:true
 line_number_start:
-line_highlights: 4-7
+line_highlights:
 ---
 print('Hello Di')
-answer = input('How do you feel today?')
-print(f'Di is feeling {} today!')
+feeling = input('How do you feel today?')
+print(f'Di is feeling {feeling} today!')
 --- /code ---
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
-- make sure you type answer = input()
+- make sure you type the print string correctly.
 </div>
 
 <div class="c-project-callout c-project-callout--debug">
