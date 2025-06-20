@@ -17,8 +17,6 @@ Change them to match those shown in the code snippet below.
 language:python
 filename:enigma.py
 line_numbers:true
-line_number_start:
-line_highlights:
 ---
 ROTORS = 'IV I V'
 RINGS = '20 5 10'

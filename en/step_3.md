@@ -10,8 +10,6 @@ In the main function, change your message and the three letter code.
 language:python
 filename:enigma.py
 line_numbers:true
-line_number_start:
-line_highlights:
 ---
 print('hello Di')
 answer = input('HOW ARE YOU?')

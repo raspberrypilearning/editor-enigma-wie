@@ -10,8 +10,6 @@ Add to the code in the main function to reflect the code shown below.
 language:python
 filename:main.py
 line_numbers:true
-line_number_start:
-line_highlights:
 ---
 print('Hello Di')
 feeling = input('How do you feel today?')
