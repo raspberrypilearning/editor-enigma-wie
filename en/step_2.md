@@ -1,7 +1,8 @@
 <h2 class="c-project-heading--task">STEP 1</h2>
 --- task ---
-**Enigma** is a cipher machine that was used by the German military during World War II for secret communications. The cipher was famously broken during the war at Bletchley Park, the forerunner of GCHQ.
+Enigma is a cipher machine that was used by the German military during World War II for secret communications. The cipher was famously broken during the war at Bletchley Park, the forerunner of GCHQ.
 --- /task ---
+
 <h2 class="c-project-heading--explain">SUB-HEADING</h2>
 Click the file `enigma.py` to look at the code. 
 
@@ -25,6 +26,7 @@ RINGS = '20 5 10'
 
 PLUGBOARD = 'AV BS CG DL FU HZ IN KM OW RX'
 
+--- /code ---
 </div>
 
 <div class="c-project-callout c-project-callout--tip">
