@@ -3,7 +3,7 @@
 Enigma is a cipher machine that was used by the German military during World War II for secret communications. The cipher was famously broken during the war at Bletchley Park, the forerunner of GCHQ.
 --- /task ---
 <h2 class="c-project-heading--explain">SUB-HEADING</h2>
-In the `main` function, change your message and the three letter code. 
+In the main function, change your message and the three letter code. 
 <div class="c-project-code">
 --- code ---
 ---

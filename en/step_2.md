@@ -4,9 +4,9 @@ Enigma is a cipher machine that was used by the German military during World War
 --- /task ---
 
 <h2 class="c-project-heading--explain">SUB-HEADING</h2>
-Look at the file `enigma.py`. 
+Look at the file enigma.py. 
 
-The code uses a built-in library `enigma.machine` to do most of the work. 
+The code uses a built-in library enigma.machine to do most of the work. 
 Three key settings for the machine must be changed at the start of each day. 
 Change them to match those shown in the code snippet below. 
 
