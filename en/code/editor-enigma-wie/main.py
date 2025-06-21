@@ -1,9 +1,9 @@
 from enigma.machine import EnigmaMachine
 
 # Sheet settings
-ROTORS = "IV I V"
-RINGS = "20 5 10"
-PLUGBOARD = "SX KU QP VN JG TC LA WM OB ZF" 
+ROTORS = "V I II"
+RINGS = "12 21 7"
+PLUGBOARD = "AV BS CG DL FU HZ IN KM OW RX"
 
 def use_enigma_machine(msg, rotor_start):
   # Set up the Enigma machine 
@@ -15,8 +15,8 @@ def use_enigma_machine(msg, rotor_start):
   return(transformed_msg)
 
 def main():
-  text_in = "Ada Lovelace would be proud of your code"
-  rotor_start = "JOY"
+  text_in = "I love coding"
+  rotor_start = "abc"
   text_out = use_enigma_machine(text_in, rotor_start)
   print(text_out)
 
